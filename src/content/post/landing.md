@@ -3,7 +3,6 @@ title: "Mastering Landing Pages: Practical Guide for 2023"
 excerpt: Ever clicked on an ad and found yourself on a page that seemed to
   really want you to do something? Congratulations, you've landed on a Landing
   Page!
-category: test
 tags:
   - landing-pages
   - front-end
