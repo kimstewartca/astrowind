@@ -1,8 +1,8 @@
 ---
-title: Market Research The 5 Most Important Things You Need to Know
+title: "Market Research: The 5 Most Important Things You Need to Know"
 excerpt: "Planning your market entry into Japan? Here is our best advice. "
 image: https://plus.unsplash.com/premium_photo-1661545979655-4a4ca10d3a71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2664&q=80
-publishDate: 2023-09-09T07:36:57.106Z
+publishDate: 2023-08-01T07:36:57.106Z
 ---
 Starbucks did it nowhere better than in Japan, Disney did it too, already a long time ago, and Kentucky Fried Chicken as well: An extremely successful market entry into Japan.  
 
