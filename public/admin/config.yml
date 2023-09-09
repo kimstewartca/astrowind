@@ -13,7 +13,6 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
-      - { label: 'Category', name: 'category', widget: 'string' }
       - {
           label: 'Tags',
           name: 'tags',
