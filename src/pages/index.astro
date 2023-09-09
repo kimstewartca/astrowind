@@ -13,7 +13,7 @@ import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 
 const metadata = {
-  title: 'AstroWind — Free template for creating websites with Astro + Tailwind CSS',
+  title: 'We guide global business in Algeria ',
   ignoreTitleTemplate: true,
 };
 ---
@@ -23,30 +23,27 @@ const metadata = {
 
   <Hero
     actions={[
-      {
-        variant: 'primary',
-        text: 'Get template',
-        href: 'https://github.com/onwidget/astrowind',
-        target: '_blank',
-        icon: 'tabler:download',
-      },
+      // {
+      //   variant: 'primary',
+      //   text: 'Get template',
+      //   href: 'https://github.com/onwidget/astrowind',
+      //   target: '_blank',
+      //   icon: 'tabler:download',
+      // },
       { text: 'Learn more', href: '#features' },
     ]}
     image={{ src: '~/assets/images/hero.png', alt: 'AstroWind Hero Image' }}
   >
     <Fragment slot="title">
-      Free template for <span class="hidden xl:inline">creating websites with</span>
-      <span class="text-accent dark:text-white highlight"> Astro 3.0</span> + Tailwind CSS
+      We guide <span class="text-accent dark:text-white highlight">global business</span> in Algeria
     </Fragment>
 
     <Fragment slot="subtitle">
       <span class="hidden sm:inline">
-        <span class="font-semibold">AstroWind</span> is a free, customizable and production-ready template for Astro 3.0
-        + Tailwind CSS.</span
+        The human condition consists of layers and each culture is built on its own societal constructs. Our thinking
+        and our way of life is shaped by these constructs, creating filters through which life is viewed. In order to
+        understand a culture, we must use that same filter when exploring it.</span
       >
-      <span class="block mb-1 sm:hidden font-bold text-blue-600">AstroWind: Production-ready.</span>
-       Suitable for Startups, Small Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages
-      & Blogs.
     </Fragment>
   </Hero>
 
@@ -58,9 +55,9 @@ const metadata = {
 
   <Features
     id="features"
-    tagline="Features"
-    title="What you get with AstroWind"
-    subtitle="One of the most professional and comprehensive templates currently on the market. Most starred & forked Astro theme in 2022."
+    tagline="---"
+    title="AMI Research"
+    subtitle="At AMI Research, we specialize in uncovering the human side of market dynamics. Our qualitative research methodologies provide a deep understanding of consumer behavior, motivations, and perceptions. "
     items={[
       {
         title: 'Astro + Tailwind CSS Integration',
@@ -315,10 +312,8 @@ const metadata = {
   <!-- HighlightedPosts Widget ******* -->
 
   <BlogLatestPosts
-    title="Find out more content in our Blog"
-    information={`The blog is used to display AstroWind documentation.
-                        Each new article will be an important step that you will need to know to be an expert in creating a website using Astro + Tailwind CSS.
-                        Astro is a very interesting technology. Thanks.
+    title="Discover Insights"
+    information={`Stay informed about the latest in qualitative research methodologies and insights through our insights section. Our experts share valuable content to help you connect with your audience.
                 `}
   />
 
@@ -374,26 +369,5 @@ const metadata = {
     ]}
   />
 
-  <!-- CallToAction Widget *********** -->
-
-  <CallToAction
-    actions={[
-      {
-        variant: 'primary',
-        text: 'Get template',
-        href: 'https://github.com/onwidget/astrowind',
-        target: '_blank',
-        icon: 'tabler:download',
-      },
-    ]}
-  >
-    <Fragment slot="title">
-      Astro&nbsp;+&nbsp;<br class="block sm:hidden" /><span class="sm:whitespace-nowrap">Tailwind CSS</span>
-    </Fragment>
-
-    <Fragment slot="subtitle">
-      Be very surprised by these huge fake numbers you are seeing on this page. <br class="hidden md:inline" />Don't
-      waste more time! :P
-    </Fragment>
-  </CallToAction>
+  <br />
 </Layout>

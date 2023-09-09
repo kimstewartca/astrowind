@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: AMI Research
+  site: 'https://amiresearch.com'
   base: '/'
   trailingSlash: false
 
