@@ -4,7 +4,7 @@ title: Consumer Expectations are Changing
 excerpt: Bricks and mortar experience is losing attractiveness. The need for amplified experience is becoming urgent.
 image: https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80
 metadata:
-  canonical: https://astrowind.vercel.app/how-to-customize-astrowind-to-your-brand
+  canonical: https://amiresearch.co/how-to-customize-your-brand
 ---
 
 It is already beyond a cliché to use the term ‘new normal’ when it comes to describing our business and personal lives since the Covid crisis began. Nevertheless, it’s simply a fact that things are very different than they were on January 1st 2020 when we rang in the new year with our usual optimism. 
