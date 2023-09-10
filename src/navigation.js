@@ -137,9 +137,9 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Discover',
       links: [
-        { text: 'Features', href: '#' },
+        { text: 'Insights', href: '/blog' },
       ],
     },
     {
@@ -158,7 +158,6 @@ export const footerData = {
       title: 'Company',
       links: [
         { text: 'Meet the Team', href: '/about' },
-        { text: 'Insights', href: '/blog' },
       ],
     },
   ],
