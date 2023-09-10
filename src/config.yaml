@@ -1,6 +1,6 @@
 site:
   name: AMI Research
-  site: 'https://amiresearch.co'
+  site: 'https://amiresearch.com'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AMI Research
-    template: 'AMI Research'
-  description: 'We guide global business in Algeria'
+    default: AstroWind
+    template: '%s — AstroWind'
+  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AMI Research
+    site_name: AstroWind
     images:
       - url: '~/assets/images/default.png'
         width: 1200
