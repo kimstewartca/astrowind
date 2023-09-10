@@ -157,7 +157,7 @@ export const footerData = {
     {
       title: 'Company',
       links: [
-        { text: 'Meet the Team', href: '/about' },
+        { text: 'Meet the Team', href: '/about#team' },
       ],
     },
   ],
@@ -166,9 +166,9 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/amiresearch' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://instagram.com/amiresearch' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://facebook.com/amiresearch' },
+    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/amiresearchglobal' },
+    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://instagram.com/amiresearchglobal' },
+    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://facebook.com/amiresearchglobal' },
     // { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   ],
   footNote: `&copy; 2023 AMI Research. All rights reserved.`,
